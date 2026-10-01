@@ -1,0 +1,8 @@
+# OpenCode agent workspace files (not part of the website)
+.agents/
+skills-lock.json
+
+# OS junk files
+Thumbs.db
+Desktop.ini
+.DS_Store
